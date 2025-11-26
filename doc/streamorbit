@@ -1,0 +1,3 @@
+django-admin startproject streamapi
+
+npx create-expo-app frontend
